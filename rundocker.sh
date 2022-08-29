@@ -6,4 +6,5 @@ docker run --rm -d \
     -e host_name=`hostname` \
     -e PYTHONUNBUFFERED=1 \
     -e promURL="http://tstore-api:80/api/v1/write" \
-    transpara/carbon
+    transpara/carbon:2022-08-29
+
