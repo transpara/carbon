@@ -1,0 +1,202 @@
+Acid,7.5
+Ammonia,16.1
+Arg S1 Em,6699
+Arg S2 Em,6699
+Arg S3 Em,6699
+Ash/Gypsum,801726
+Aus S1 Em,6699
+Aus S2 Em,6699
+Aus S3 Em,6699
+Avoided,74.8
+Bio (Mtoe),0.05
+Bio (TJ),1396
+Biogas (Raw),0.1
+Biomass (Raw),89
+Bra S1 Em,6699
+Bra S2 Em,6699
+Bra S3 Em,6699
+Bul S1 Em,6699
+Bul S2 Em,6699
+Bul S3 Em,6699
+By Destination,14433.7
+CAN S1 Em,6699
+CAN S2 Em,6699
+CAN S3 Em,6699
+Caustic Soda,76.9
+Chi S1 Em,6699
+Chi S2 Em,6699
+Chi S3 Em,6699
+Chin S1 Em,6699
+Chin S2 Em,6699
+Chin S3 Em,6699
+Chloride,3.9
+CO2,44.67
+CO2eq Total,0.13
+Coal,14.6
+Coal (Mtoe),3.3
+Coal (Raw),5893
+Coal (TJ),138380
+Coal Mining,1.06
+Col S1 Em,6699
+Col S2 Em,6699
+Col S3 Em,6699
+Constr/Dem,117889
+Defendant,255
+Dielectic,28.6
+Dust,1243
+Dust atm,0.01
+E Distribution,0.02
+E Production,0.59
+Elec Distribution,0.152
+Elec Production,1.216
+Electric Dist,2197
+Electric Prod,20124
+Emissions Location,3.56
+Emissions Market,5.57
+End Consum Elec,25.04
+End Consum Gas,21.48
+Eng S1 Em,6699
+Eng S2 Em,6699
+Eng S3 Em,6699
+Ete Production,6699
+Fines,84.71
+Fra S1 Em,6699
+Fra S2 Em,6699
+Fra S3 Em,6699
+Fresh_aq.c,4.8
+Fresh_aq.s,0.5
+Fresh_gnd.c,9
+Fresh_gnd.s,4.9
+Fresh_sea.s,6699
+Fresh_surf.c,22
+Fresh_surf.s,5.4
+Fuel & Stock,0.001
+Fuel (Mtoe),0.9
+Fuel (Raw),975
+Fuel (TJ),39320
+Fuel Oil,4.1
+Gas (Mtoe),10.9
+Gas (Raw),13075
+Gas (TJ),457020
+Gas Oil,4
+Geothermal (Mtoe),1.3
+Geothermal (Raw),350090
+Geothermal (TJ),53504
+Gre S1 Em,6699
+Gre S2 Em,6699
+Gre S3 Em,6699
+Ground W,1.1
+H2S,4972
+Hg,0.05
+Ibe S1 Em,6699
+Ibe S2 Em,6699
+Ibe S3 Em,6699
+Ita S1 Em,6699
+Ita S2 Em,6699
+Ita S3 Em,6699
+Jap S1 Em,6699
+Jap S2 Em,6699
+Jap S3 Em,6699
+Landfill (H),9348
+Landfill (NH),336499
+Lignite,0.1
+Lignite (Mtoe),0.03
+Lignite (Raw),105
+Lignite (TJ),1353
+Lime,83.9
+Lubricant,3.8
+LV,82.4
+LV/MV,60.4
+Management,10
+MEX S1 Em,0.03
+MEX S2 Em,6
+MEX S3 Em,29.4
+Mining,48.2
+Mining (Ete),76256
+MV,0.36
+Nat Gas,1.7
+NOx,6699
+NOx atm,6699
+Nuclear Prod,6699
+NZ S1 Em,6699
+NZ S2 Em,6699
+NZ S3 Em,6699
+Oil (Mtoe),0.9
+Oil (Raw),906
+Oil (TJ),39234
+Oils,8904
+Other Consum,17.6
+Other Methods (H),17285
+Other Methods (NH),42099
+Other Uses,0.7
+Other_aq.c,0.9
+Other_aq.s,0.3
+Other_gnd.c,0
+Other_gnd.s,0
+Other_sea.c,0
+Other_sea.s,0.8
+Other_surf.c,0.3
+Other_surf.s,0
+Ozone,22
+Paper,76
+Plants,8.6
+Prod Water_c,0.1
+Prod Water_s,0.3
+R Estate,808
+Real Estate,0.06
+Recovery,750946
+Recovery Sent,65.7
+Recycled,25183
+Requirements,0.2
+Reused,9.7
+Sea Water,9121.3
+Sing S1 Em,6699
+Sing S2 Em,6699
+Sing S3 Em,6699
+Slaked Lime,3.8
+SO2,20547
+SO2 atm,0.1
+Specific CO2,211
+Specific CO2eq,214
+Surf Water,5281.3
+Surface W,5275.1
+Thermo Prod,49.1
+Third Party,89
+Total (Mtoe),23.9
+Total (TJ),1004052
+Total Consum,205.8
+Total Cooling,14402.6
+Total Ete Consum,23145
+Total Hazardous,51816
+Total Location,1.43
+Total Market,2.285
+Total Non-hazardous,1129544
+Total Non-ren(Mtoe),22.5
+Total Non-ren(TJ),949152
+Total Ren(Mtoe),1.4
+Total Ren(TJ),54990
+Total S1,45.26
+Total S3,47.7
+Total Waste,1181360
+Total Withdrawal,51.5
+Total_aq.c,5.7
+Total_aq.s,0.8
+Total_gnd.c,9
+Total_gnd.s,4.9
+Total_sea.c,14.5
+Total_sea.s,0.8
+Total_surf.c,22.3
+Total_surf.s,5.4
+Trans Fuel,0.01
+Trans Raw,0.01
+Trans Sea,0.1
+Trans Train,0.22
+Uranium,28.9
+Uranium (Mtoe),6.5
+Uranium (TJ),237845
+USA S1 Em,6699
+USA S2 Em,6699
+USA S3 Em,6699
+Water Consum,20.4
+Withdrawal Non-scarce,0.8
+Withdrawal Scarce,11
