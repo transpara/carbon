@@ -32,7 +32,7 @@ docker run --rm -d \
 
 ```bash
 cd /transpara
-git clone https://bitbucket.org/transpara/carbon
+git clone https://github.com/transpara/carbon
 ./build.sh
 ./rundocker.sh
 ```
